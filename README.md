@@ -33,17 +33,13 @@
 
 <br>
 
-## 🔥 Featured Web3 / Backend Projects
+## 🔥 Featured Web3 / Fullstack Projects
 
-<!-- Você pode pinçar até 6 repositórios na sua página de perfil -->
-<!-- Aqui vão exemplos – substitua pelos seus reais quando tiver -->
 
-- **[nft-marketplace-backend](https://github.com/raulvitorl/nft-marketplace-backend)** — API REST + Web3 integration for NFT minting/listing/sales (Node.js + Solidity + MongoDB)
-- **[erc20-token-deployer](https://github.com/raulvitorl/erc20-token-deployer)** — Hardhat scripts + Foundry tests for custom ERC-20/ERC-721 deployment
-- **[defi-yield-farmer-backend](https://github.com/raulvitorl/defi-yield-farmer-backend)** — Backend service to monitor and interact with DeFi protocols (events listening, swaps via Uniswap)
-- **[solana-anchor-counter](https://github.com/raulvitorl/solana-anchor-counter)** — Simple on-chain counter using Anchor framework (Rust + Solana)
+- **[raul-erc-20-transfers-sepolia](https://github.com/raulvitorl/raul-erc-20-transfers-sepolia)** — Subgraph that indexes events from the USDC contract on the Sepolia Testnet network.
+- **[usdc-transfers-api](https://github.com/raulvitorl/usdc-transfers-api)** — RESTful API wrapper that consumes a decentralized The Graph subgraph indexing USDC (ERC-20) events on Ethereum Sepolia testnet.
+- **[usdc-transfers-dashboard](https://github.com/raulvitorl/usdc-transfers-dashboard)** — Interactive dApp dashboard to visualize USDC (ERC-20) transfers on Ethereum Sepolia testnet.
 
-*(Pinne os repositórios mais fortes no topo da sua página de perfil para eles aparecerem aqui automaticamente!)*
 
 <br>
 
@@ -70,7 +66,3 @@ Open to collaborations, hackathons, freelance Web3 backend gigs or interesting d
 Feel free to reach out! 🚀
 
 <br>
-
----
-
-*Made with ❤️ and a lot of coffee*
